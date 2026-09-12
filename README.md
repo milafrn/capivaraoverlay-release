@@ -18,4 +18,4 @@ ha uma versao mais nova.
 
 ## Licenca
 
-GPL-3.0-only. Quem recebe o binario tem direito ao codigo-fonte correspondente.
+EULA. Quem recebe o binario tem direito ao codigo-fonte correspondente.
