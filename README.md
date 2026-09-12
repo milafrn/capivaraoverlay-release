@@ -18,5 +18,4 @@ ha uma versao mais nova.
 
 ## Licenca
 
-GPL-3.0-only. O Capivara Overlay e derivado do iRaceHUD, de Ivan Kachalkin.
-Quem recebe o binario tem direito ao codigo-fonte correspondente.
+GPL-3.0-only. Quem recebe o binario tem direito ao codigo-fonte correspondente.
