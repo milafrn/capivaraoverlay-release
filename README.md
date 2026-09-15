@@ -18,4 +18,4 @@ ha uma versao mais nova.
 
 ## Licenca
 
-EULA. Quem recebe o binario tem direito ao codigo-fonte correspondente.
+EULA. Quem recebe o binário não tem direito ao código-fonte correspondente.
