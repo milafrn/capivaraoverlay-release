@@ -1,11 +1,11 @@
 {
-  "version": "0.2.41",
-  "notes": "Capivara Overlay 0.2.41",
-  "pub_date": "2026-09-19T06:06:29Z",
+  "version": "0.3.0",
+  "notes": "Capivara Overlay 0.3.0",
+  "pub_date": "2026-09-19T17:45:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUG8zeTcwS2ROcmN3TDdRQTdkTk5nMWdLRURYWUsyUjJUdURYYkZ3dURvdmVYMktwRTFEUndheWU5ZDhUTGZMckgwZmxkaUdaa2F2Qy9oMkVWQ1V0Q2lJbEZ0SzA1endnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Nzk3OTg2CWZpbGU6Q2FwaXZhcmEgT3ZlcmxheV8wLjIuNDFfeDY0LXNldHVwLmV4ZQpTWWRCeVFGVlEzMWpNS0k3QVMzaXYzOUpSRFRNaFRWd1NkSVNOU1FnaStPR08xN01SMWNUQkZ0NEtXdzJmUnFqaXJmTjZFOU05bGJONnd2QWR0STlEZz09Cg==",
-      "url": "https://github.com/milafrn/capivaraoverlay-release/raw/main/CapivaraOverlay_0.2.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUG8zeTcwS2ROcmVsSU9ORXhEMmxSeEdnTVRqVEljTHFSR25hMmJNYm1TTjQ4SHZvZ3BDQTVRSFN5UzZYYzZ4elhYNlZuM0NUK2I5NkNaSk1xcFcvUTdvMUY4dHZDU2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM5OTE0CWZpbGU6Q2FwaXZhcmEgT3ZlcmxheV8wLjMuMF94NjQtc2V0dXAuZXhlCm4rTEFSOVM4akxHcGcvc0VORHMyVUJJNkNTdmpRdTlGcEh6R05GQStLMEFLaGlrdjFSWGtCTm5KeXliU2psTWZFRmV6K1NTZUtZL216TnZCbnNtR0NRPT0K",
+      "url": "https://github.com/milafrn/capivaraoverlay-release/raw/main/CapivaraOverlay_0.3.0_x64-setup.exe"
     }
   }
 }
